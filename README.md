@@ -2,7 +2,9 @@
 
 A Geometry Dash mod built with [Geode](https://geode-sdk.org/) that visualizes your death locations using an interactive heatmap.
 
-![Mod Screenshot](logo.png) ## 🌟 Features
+<p align="center">
+   <img src="logo.png" alt="Mod Screenshot" style="width:50%; height:auto;">
+</p>
 
 * **Real-time Tracking:** Tracks your death percentage every attempt.
 * **Heatmap Visualization:** A visual bar accessible from the Level Info menu showing where you struggle the most.
