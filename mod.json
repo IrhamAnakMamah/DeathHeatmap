@@ -11,6 +11,11 @@
 	"version": "v1.0.0",
 	"developer": "Irham",
 	"description": "A mod to visualize player death locations.",
+	"repository": "https://github.com/IrhamAnakMamah/DeathHeatmap",
+	"issues": {
+      "info": "Found a bug? Report it here!",
+      "url": "https://github.com/IrhamAnakMamah/DeathHeatmap/issues"
+  },
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	}
